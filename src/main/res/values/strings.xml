@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageFromGallery</string>
+    <string name="button_open_gallery">open gallery</string>
+    <string name="image_description">your image would be here</string>
+</resources>
